@@ -7,7 +7,7 @@ for classman in range(1, students+1):
     if scores == 4:
         counter_4 += 1
     elif scores == 3:
-        counter_3 += 1
+        counter_3 += 2
     elif scores == 5:
         counter_5 += 1
 if counter_5 < counter_4 > counter_3:
