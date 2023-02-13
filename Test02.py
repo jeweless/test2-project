@@ -19,5 +19,6 @@ elif counter_3 < counter_5 > counter_4:
 else:
     print("троечников сегодня больше ВСЕХ")
     print('Добавленная строка')
+    print('Hello Hello Hello')
 
 print()
